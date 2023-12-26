@@ -22,4 +22,3 @@ exports.up = function (knex) {
 - `description`: (Text) A shortened description of the movie.
 - `image_url`: (String) A URL to the movie's poster.
 */
-

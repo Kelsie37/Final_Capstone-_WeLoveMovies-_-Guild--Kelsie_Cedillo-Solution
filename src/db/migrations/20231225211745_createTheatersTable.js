@@ -24,4 +24,3 @@ exports.down = function (knex) {
 - `state`: (String) The state in which the theater is located.
 - `zip`: (String) The zip in which the theater is located.
 */
-
